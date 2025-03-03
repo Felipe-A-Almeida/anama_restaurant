@@ -14,7 +14,7 @@ const AboutUs = () => (
         <h1 className='headtext__cormorant'>About Us</h1>
         <img src={ images.spoon } alt="avout spoon" className='spoon__img' />
         <p className='p__opensans'>
-        At Felps Restaurant, we're more than just a restaurant. We're a place to celebrate life's moments, from intimate dinners to joyous gatherings. Our carefully curated wine list and handcrafted cocktails perfectly complement every dish, ensuring your experience is nothing short of extraordinary.
+          At Anamá, we're more than just a restaurant. We're a place to celebrate life's moments, from intimate dinners to joyous gatherings. Our carefully curated wine list and handcrafted cocktails perfectly complement every dish, ensuring your experience is nothing short of extraordinary.
         </p>
         <button type="button" className='custom__button'>Know more</button>
       </div>
@@ -25,7 +25,7 @@ const AboutUs = () => (
         <h1 className='headtext__cormorant'>About Us</h1>
         <img src={ images.spoon } alt="avout spoon" className='spoon__img' />
         <p className='p__opensans'>
-          We are a fictional restaurant since 2025 where culinary artistry meets a warm, welcoming ambiance. Nestled in the heart of downtown, Crimson Table has been delighting taste buds since 2015 with our commitment to fresh ingredients, innovative dishes, and unforgettable dining experiences.
+          Since 2025 our culinary artistry meets a warm, welcoming ambiance. Nestled in the heart of downtown, Crimson Table has been delighting taste buds since 2015 with our commitment to fresh ingredients, innovative dishes, and unforgettable dining experiences.
         </p>
         <button type="button" className='custom__button'>Know more</button>
       </div>

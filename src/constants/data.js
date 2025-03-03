@@ -60,22 +60,22 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Awarded by the Michelin Guide to restaurants that offer high-quality food at a great value.',
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Showcases innovative cuisine from up-and-coming chefs who demonstrate exceptional talent and potential in the culinary world.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Exceptional service, quality cuisine, and outstanding dining experiences.',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'A visionary culinary leader whose skill, creativity, and dedication have made a significant impact on the restaurant industry.',
   },
 ];
 
