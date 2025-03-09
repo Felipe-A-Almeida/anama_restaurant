@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anama_restaurant/static/css/main.04aabb11.css",
-    "main.js": "/anama_restaurant/static/js/main.26c81b79.js",
+    "main.js": "/anama_restaurant/static/js/main.48b14e05.js",
     "static/media/meal.mp4": "/anama_restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/anama_restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/anama_restaurant/static/media/welcome.d724eb984456d9c97470.png",
@@ -26,10 +26,10 @@
     "index.html": "/anama_restaurant/index.html",
     "static/media/spoon.svg": "/anama_restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.04aabb11.css.map": "/anama_restaurant/static/css/main.04aabb11.css.map",
-    "main.26c81b79.js.map": "/anama_restaurant/static/js/main.26c81b79.js.map"
+    "main.48b14e05.js.map": "/anama_restaurant/static/js/main.48b14e05.js.map"
   },
   "entrypoints": [
     "static/css/main.04aabb11.css",
-    "static/js/main.26c81b79.js"
+    "static/js/main.48b14e05.js"
   ]
 }
